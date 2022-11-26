@@ -1,0 +1,10 @@
+git init
+ 1113  git status
+ 1114  git add .
+ 1115  git status 
+ 1116  git commit -m "Mi tercer commit"
+ 1117  git status 
+ 1118  git push --set-upstream Work_shop  master
+ git push  Work_shop
+ 
+ git checkout -b "nombre de la rama" crea la rama y muevete
